@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       nome: "Design Gráfico e Photoshop Avançado",
-      instituicao: "Independente",
+      instituicao: "Designer Sagaz",
       ano: "Jan 2025 • 50h",
       icone: "ph-paint-brush",
     },
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       nome: "Web Design Express",
-      instituicao: "Independente",
+      instituicao: "Danki Code",
       ano: "Jun 2023 • 13h",
       icone: "ph-layout",
     },
